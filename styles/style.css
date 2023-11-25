@@ -285,9 +285,6 @@ FOOTER
   .header {
     padding-inline-start: 0;
     min-height: 1024px;
-  }
-
-  .header {
     align-items: center;
   }
 
